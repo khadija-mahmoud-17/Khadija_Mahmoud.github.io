@@ -54,13 +54,12 @@ Cloud Platforms
 
 ---
 
-## 🏆 Accomplishments  
-- **Deutschland Stipendium**
-<div> <img src="https://github.com/khadija-mahmoud-17/Khadija_Mahmoud/blob/main/_DSC4110.jpg" alt="Stipendium Photo" width="40" height="40"/>
-- **1st Place** - Porsche Digital Campus AI and LLM Challenge  
-- **STIBET Scholarship**  
-- **Golden Residence**: Top-ranked high school student in Abu Dhabi, UAE  
-- **AP Scholar Award**  
+## 🏆 Accomplishments
+Deutschland Stipendium <div align="center"> <img src="https://github.com/khadija-mahmoud-17/Khadija_Mahmoud/blob/main/_DSC4110.jpg" alt="Stipendium Photo" width="300"/> </div>
+1st Place - Porsche Digital Campus AI and LLM Challenge <div align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Trophy GIF" width="300"/> </div>
+STIBET Scholarship <div align="center"> <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Scholarship GIF" width="300"/> </div>
+Golden Residence: Top-ranked high school student in Abu Dhabi, UAE <div align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Golden Residence GIF" width="300"/> </div>
+AP Scholar Award <div align="center"> <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="AP Scholar Award GIF" width="300"/> </div>  
 
 ---
 
