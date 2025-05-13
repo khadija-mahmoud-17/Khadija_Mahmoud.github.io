@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Khadija Mahmoud  
+# Hi, I'm Khadija Mahmoud  
 
 🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology in Healthcare  
 
@@ -23,8 +23,8 @@ Frameworks & Tools
 <div> <img src="https://img.icons8.com/ios/50/000000/flask.png" alt="Flask" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino IDE" width="40" height="40"/> </div>
 
 Cloud Platforms
-<div> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="40" height="40"/> </div>
-
+<div> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  
 ### **Soft Skills**  
 - Public Speaking  
 - Problem Solving  
@@ -64,7 +64,7 @@ Cloud Platforms
 
 ## 🌍 Languages  
 - **English**: Fluent  
-- **German**: Intermediate (B2.1)  
+- **German**: Intermediate   
 - **Arabic**: Native  
 - **Korean**: Basic  
 - **French**: Basic  
@@ -72,9 +72,9 @@ Cloud Platforms
 ---
 
 ## 📫 Let's Connect!  
-If you’re interested in collaborating on health informatics projects, discussing technology in healthcare, or simply connecting, feel free to reach out:  
+If you’re interested in collaborating on health informatics projects, discussing technology in real time data delivery, or simply connecting, feel free to reach out:  
 - **Email**: [khadija.mahmoud@stud.th-deg.de](mailto:khadija.mahmoud@stud.th-deg.de)  
-- **LinkedIn**: (Add your LinkedIn profile link here)  
+- **LinkedIn**: 
 - **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
 
 ---
