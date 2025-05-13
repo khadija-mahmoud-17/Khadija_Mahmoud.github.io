@@ -56,7 +56,7 @@ Cloud Platforms
 
 ## 🏆 Accomplishments
 Deutschland Stipendium <div align="center"> <img src="https://github.com/khadija-mahmoud-17/Khadija_Mahmoud/blob/main/_DSC4110.jpg" alt="Stipendium Photo" width="300"/> </div>
-1st Place - Porsche Digital Campus AI and LLM Challenge <div align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" alt="Trophy GIF" width="300"/> </div>
+1st Place - Porsche Digital Campus AI and LLM Challenge <div align="center"> <img src="Screenshot 2025-05-13 183033.png" alt="Trophy GIF" width="300"/> </div>
 STIBET Scholarship <div align="center"> <img src="https://github.com/khadija-mahmoud-17/Khadija_Mahmoud/blob/main/Khadija%20Stipendienurkunde.pdf" width="300"/> </div>
 Golden Residence: Top-ranked high school student in Abu Dhabi, UAE <div align="center"> <img src="https://d23hiuzhfk4xdw.cloudfront.net/wp-content/uploads/2023/11/24094312/golden-residency-visa.png" alt="Golden Residence GIF" width="300"/> </div>
 AP Scholar Award <div align="center"> <img src="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1724948835/cfbisdedu/jdntppe9atq7p82jqioa/Thumbnails17_1.png" alt="AP Scholar Award GIF" width="300"/> </div>  
