@@ -12,7 +12,7 @@ Some of my key interests include:
 - **Cloud Computing**: Exploring platforms like AWS and Azure to build scalable solutions.  
 - **Big Data Processing**: Working with technologies to manage and analyze large datasets in healthcare.  
 - **Real-Time Data Delivery**: Developing tools for efficient real-time data access and workflows.  
-<div align="center"> <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="About Me GIF" width="400"/> </div>
+<div align="center"> <img src="https://static.wixstatic.com/media/1d074c_2fe1bf1554a349e8b5259f26ebeab0fd~mv2.gif" alt="About Me GIF" width="400"/> </div>
 ---
 
 ## 💻 Technologies & Skills  
