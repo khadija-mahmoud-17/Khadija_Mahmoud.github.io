@@ -56,7 +56,7 @@ Cloud Platforms
 
 ## 🏆 Accomplishments  
 - **Deutschland Stipendium**
-- <div> <img src="https://github.com/khadija-mahmoud-17/Khadija_Mahmoud/blob/main/_DSC4110.jpg" alt="Stipendium Photo" width="40" height="40"/>
+<div> <img src="https://github.com/khadija-mahmoud-17/Khadija_Mahmoud/blob/main/_DSC4110.jpg" alt="Stipendium Photo" width="40" height="40"/>
 - **1st Place** - Porsche Digital Campus AI and LLM Challenge  
 - **STIBET Scholarship**  
 - **Golden Residence**: Top-ranked high school student in Abu Dhabi, UAE  
