@@ -1,7 +1,6 @@
 # Hi, I'm Khadija Mahmoud  
 
-🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology in Healthcare  
-
+🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology 
 ---
 
 ## 🚀 About Me  
