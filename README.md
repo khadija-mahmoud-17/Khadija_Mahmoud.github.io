@@ -2,7 +2,7 @@
 
 🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology #
 
-<div align="center"> <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Hello GIF" width="300"/> </div>](https://64.media.tumblr.com/bd2fa48017b60f5ba8c8f7a1d90d61fd/ee71f698afde807e-50/s500x750/54ff2c34b57509b5f0f1fc560eace201aa4c63b9.gifv)
+<div align="center"> <img src="https://64.media.tumblr.com/bd2fa48017b60f5ba8c8f7a1d90d61fd/ee71f698afde807e-50/s500x750/54ff2c34b57509b5f0f1fc560eace201aa4c63b9.gifv" alt="Programming GIF" width="400"/> </div>
 ---
 
 ## 🚀 About Me  
