@@ -1,6 +1,8 @@
 # Hi, I'm Khadija Mahmoud  
 
-🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology 
+🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology #
+
+<div align="center"> <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" alt="Hello GIF" width="300"/> </div>
 ---
 
 ## 🚀 About Me  
