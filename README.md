@@ -53,16 +53,6 @@ Some of my key interests include:
 
 ---
 
-### **Frameworks & Tools**  
-<div> 
-  <img src="https://img.icons8.com/ios/50/000000/flask.png" alt="Flask" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino IDE" width="40" height="40"/> 
-</div>
-
----
-
 ## 🌟 Projects  
 
 ### **Skin Cancer Detection**  
