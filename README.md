@@ -9,8 +9,7 @@
 ---
 
 ## 🚀 About Me  
-I’m a Health Informatics student at Technische Hochschule Deggendorf (THD), Germany. My passion lies in combining **technology** and **healthcare** to create impactful solutions that improve patient care and optimize workflows.  
-
+I’m a Health Informatics student at Technische Hochschule Deggendorf (THD), Germany. 
 Some of my key interests include:  
 - **Cancer Research**: Using data science and informatics to contribute to advancements in cancer prevention and treatment.  
 - **Cloud Computing**: Exploring platforms like AWS and Azure to build scalable solutions.  
