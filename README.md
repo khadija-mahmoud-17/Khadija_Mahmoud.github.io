@@ -1,7 +1,3 @@
-Here’s a cleaned-up and properly formatted version of your GitHub README with all the necessary fixes, better alignment, and improved structure. I’ve also ensured that the badges, images, and sections are well-organized and visually appealing.
-
----
-
 # Hi, I'm Khadija Mahmoud  
 
 🎓 **Health Informatics Student** | 🌍 Based in Germany | 🌟 Passionate about Technology  
@@ -113,10 +109,7 @@ Some of my key interests include:
 
 ## 📫 Let's Connect!  
 If you’re interested in collaborating on health informatics projects, discussing technology in real-time data delivery, or simply connecting, feel free to reach out:  
-- **Email**: [khadija.mahmoud@stud.th-deg.de](mailto:khadija.mahmoud@stud.th-deg.de)  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
-- **GitHub**: [github.com/khadija-mahmoud-17](https://github.com/khadija-mahmoud-17)  
+- **Email**: [khadija.mahmoud1705@gmail.com](mailto:khadija.mahmoud1705@gmail.com)  -
+- **Student Email**: [khadija.mahmoud@stud.th-deg.de](mailto:khadija.mahmoud@stud.th-deg.de)  
 
 ---
-
-This version is clean, visually appealing, and properly formatted for your GitHub README. Let me know if you need further adjustments! 😊
